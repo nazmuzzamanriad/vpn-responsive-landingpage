@@ -1,0 +1,16 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    color: #F6F6F6;
+}
+
+.ul-m{
+    margin-left: 150px;
+}
+.sign-up{
+    width: 150px;
+    height: 45px;
+    text-align: center;
+    padding-top: 10px;
+
+
+}
